@@ -14,11 +14,11 @@ Payload builds the authorization and revenue-evidence layer for paid APIs and ag
 
 ## MCP servers
 
-Run any of our MCP servers straight from its Smithery listing, or point your MCP client at the hosted endpoint:
+Install any of our MCP servers from its Smithery listing, or from its repo:
 
-- **callx402 by Payload** — pay x402-protected APIs from an AI agent, with free keyless diagnostics (status, check, discover). [Smithery](https://smithery.ai/servers/kyler-simmons-partners/callx402) · Hosted: https://callx402--kyler-simmons-partners.run.tools · [Repo](https://github.com/Payloadhq/callx402)
-- **Veyline by Payload** — organization entitlement and usage checks, plus signed, policy-enforced payment preflights (no funds move). Requires a Payload rail API key. [Smithery](https://smithery.ai/servers/kyler-simmons-partners/veyline) · Hosted: https://veyline--kyler-simmons-partners.run.tools · [Repo](https://github.com/Payloadhq/veyline-mcp)
-- **RevRule by Payload** — read revenue entitlement graphs, review payout evidence, and dry-run revenue events with zero side effects. Requires a Payload rail API key with a RevRule entitlement. [Smithery](https://smithery.ai/servers/kyler-simmons-partners/revrule) · Hosted: https://revrule--kyler-simmons-partners.run.tools · [Repo](https://github.com/Payloadhq/revrule-mcp)
+- **callx402 by Payload** — pay x402-protected APIs from an AI agent, with free keyless diagnostics (status, check, discover). [Smithery](https://smithery.ai/servers/kyler-simmons-partners/callx402) · [Repo](https://github.com/Payloadhq/callx402)
+- **Veyline by Payload** — organization entitlement and usage checks, plus signed, policy-enforced payment preflights (no funds move). Requires a Payload rail API key. [Smithery](https://smithery.ai/servers/kyler-simmons-partners/veyline) · [Repo](https://github.com/Payloadhq/veyline-mcp)
+- **RevRule by Payload** — read revenue entitlement graphs, review payout evidence, and dry-run revenue events with zero side effects. Requires a Payload rail API key with a RevRule entitlement. [Smithery](https://smithery.ai/servers/kyler-simmons-partners/revrule) · [Repo](https://github.com/Payloadhq/revrule-mcp)
 
 All three are also published in the Official MCP Registry as `io.github.payload-tools/callx402`, `io.github.payload-tools/veyline-mcp`, and `io.github.payload-tools/revrule-mcp`.
 
