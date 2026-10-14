@@ -26,3 +26,7 @@ All three are also published in the Official MCP Registry as `io.github.payload-
 
 - **Veyline Developer Primer ($79)** — the x402 paid API starter kit: [payloadtools.gumroad.com/l/x402-paid-api-starter-kit](https://payloadtools.gumroad.com/l/x402-paid-api-starter-kit)
 - **Hosted API** — https://payload-rail.fly.dev
+
+## Community
+
+Join the Payload Discord, a global community for developers, founders, and operators building with AI agents, payments, and automation: https://discord.gg/Bu9TkvmBxn
